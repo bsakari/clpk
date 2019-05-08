@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "730675058358",
+    "firebase_url": "https://clpk-929be.firebaseio.com",
+    "project_id": "clpk-929be",
+    "storage_bucket": "clpk-929be.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730675058358:android:94359bbf275c3afe",
+        "android_client_info": {
+          "package_name": "com.example.emobilis.elimuassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730675058358-fa9bs07oc0du5kl4ldgmo9fignp06vme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emobilis.elimuassistant",
+            "certificate_hash": "c9781804dc977a91322c701b7aabfe0787a4d0d4"
+          }
+        },
+        {
+          "client_id": "730675058358-1e7reebahksgfpth1jfmq9kvva7prv54.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjjg4B9vHO6IKhIUvL9g8QdbxqQvD3Px8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730675058358-1e7reebahksgfpth1jfmq9kvva7prv54.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
